@@ -1,0 +1,2 @@
+Rectangle: Dad with Blue color, and width = 3, height = 2
+Circle: Circle with Blue color, and radius = 30
